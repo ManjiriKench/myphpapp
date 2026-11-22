@@ -60,7 +60,7 @@ $time    = date('Y-m-d H:i:s T');
 <body>
     <div class="card">
         <span class="badge">GDG Pune Live Demo</span>
-        <h1>Hello, OpenShift! 🚀</h1>
+        <h1>Hello, Manjiri! 🚀</h1>
         <p class="subtitle">Deployed directly from Git via Source-to-Image (S2I)</p>
         
         <div class="metrics">
